@@ -1,6 +1,4 @@
-#adding extra comments to this file
-#add more lines
-# this line was created in draft branch
+
 $datacenter = "ae1"
  
 # List of ESXi Hosts to Add to New Data Center
